@@ -1,4 +1,4 @@
-package com.example.tracker
+package com.thomas.tracker
 
 import org.junit.Test
 

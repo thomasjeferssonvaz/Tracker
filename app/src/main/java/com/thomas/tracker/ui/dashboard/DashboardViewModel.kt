@@ -1,4 +1,4 @@
-package com.example.tracker.ui.dashboard
+package com.thomas.tracker.ui.dashboard
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

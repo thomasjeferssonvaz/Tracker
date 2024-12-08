@@ -2,6 +2,7 @@
 plugins {
     alias(libs.plugins.android.application) apply false
     alias(libs.plugins.kotlin.android) apply false
+    id("com.android.library") version "8.1.0" apply false // Or latest version
 }
 buildscript {
     dependencies {

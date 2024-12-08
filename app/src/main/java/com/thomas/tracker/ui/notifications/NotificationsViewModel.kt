@@ -1,4 +1,4 @@
-package com.example.tracker.ui.notifications
+package com.thomas.tracker.ui.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
